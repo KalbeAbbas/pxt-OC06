@@ -98,7 +98,7 @@ namespace OC06 {
 
         STEPS_PER_REV = NUM_STEPS * STEP_SIZE
 
-        setDirection(dir);
+        setDirection(dir)
 
         if (speed < 20) {
             delay_time = 60000 / (STEPS_PER_REV * speed);
