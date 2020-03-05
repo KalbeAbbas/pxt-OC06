@@ -1,4 +1,4 @@
-//% color=190 weight=100 icon="\uf085" block="Basic Blocks"
+//% color=190 weight=100 icon="\uf085" block="OC06"
 namespace OC06 {
     let OC06_ADDR = 0x38
     let PCA9554A_REG_OUTPUT = 0x01
